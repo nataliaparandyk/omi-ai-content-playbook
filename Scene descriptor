@@ -1,0 +1,35 @@
+SCENE DESCRIPTOR:
+
+[BACKGROUND]
+Color:      Soft neutral grey, gradient — slightly lighter at top, darker at bottom
+Texture:    Seamless, no surface, no shadows on bg, infinite void feel
+
+[LIGHTING]
+Type:       Single soft key light — large area source (like overcast window)
+Direction:  Upper left, ~45° angle
+Intensity:  Medium — enough to reveal texture without harsh contrast
+Fill:       Subtle right-side fill to avoid full shadow blackout
+Rim:        Optional thin rim light from behind for depth separation
+Mood:       Clean, premium, editorial — not studio-flat, not dramatic
+
+[OBJECT SIZE IN FRAME]
+Framing:    Close-up / hero shot — object fills ~60-70% of frame
+Distance:   Medium-close — like a macro product photo, not extreme closeup
+
+[OBJECT ANGLE]
+Rotation:   3/4 view — front-left angle, ~30° tilt downward from eye level
+Tilt:       Slight nose-down tilt (~15°) to show top dome face with LED
+
+[SHADOWS]
+Type:       Soft diffused shadow beneath object
+Contact:    Subtle, not hard-edged
+Ambient:    Gentle ambient occlusion in groove and around TPU ring
+
+[DEPTH OF FIELD]
+Focus:      Sharp on full object
+Background: Slightly out of focus — f/4 equivalent, bokeh feel
+
+[RENDER STYLE]
+Quality:    Photorealistic CGI — product render quality
+Finish:     Not illustration, not flat — tactile, you can "feel" the texture
+Reference:  Apple AirPods Pro official render aesthetic
