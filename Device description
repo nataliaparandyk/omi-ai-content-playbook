@@ -1,22 +1,41 @@
-DEVICE: Omi AI Wearable
+DEVICE: Omi AI Wearable — Full Reference Descriptor
 
-FORM: Small circular disc, ~25mm diameter, ~15mm height
-      Pebble/lens shape — domed top, flat bottom
+-- OVERALL FORM --
+Shape:    Circular disc, lens/pebble profile
+          Symmetrically domed on both faces (top dome slightly more pronounced)
+          Thin dark machined groove running around the full equator
+Size:     ~25mm diameter, ~14mm total height
+          Comparable to a large coat button or a stack of 3 coins
+          Significantly smaller than a smartphone — fits on a fingertip
 
-OUTER SHELL: Matte metallic silver, fine sandblasted texture
-             Subtle specular highlight on dome
-             Thin dark horizontal groove around the middle equator
+-- SURFACE & MATERIAL --
+Texture:  Matte sandblasted metal finish — fine granular texture, not glossy
+          Micro-sparkle visible under direct light
+Color:    Warm silver-grey (gunmetal tone, not bright chrome)
+          Subtle gradient from lighter dome center to slightly darker edges
+Finish:   Single continuous curved surface — no seams, no ports, no buttons
+          One face only: contains the LED recess (see below)
+          Opposite face: identical dome, completely clean — no markings
 
-LED: Single small blue LED dot centered on top face
-     Soft blue glow when active
+-- LED (front face only) --
+Type:     Single point-source LED, deep-recessed into the surface
+          Does NOT protrude — sits flush or slightly below surface level
+          Appears as a small glowing eye embedded in the metal
+Shape:    Tiny oval/elliptical aperture (~2-3mm), like a narrow slit or pupil
+Position: Slightly off-center toward upper area of the front dome face
+Color:    Bright electric blue when active — soft halo glow diffused by recess
+          No LED visible from back, sides, or at sharp angles
 
-CASE/HOLDER: Transparent frosted rubber ring (TPU)
-             Wraps around the equator groove only
-             Slightly wider than the shell — visible as a clear halo
-             Small loop tab at top — eyelet for cord/chain threading
+-- RUBBER CASE / HOLDER --
+Material: Transparent frosted TPU rubber — slight milky clarity, not fully clear
+Shape:    Ring/halo — wraps equator groove only, does not cover either dome face
+Width:    ~4-5mm visible band, sits proud of the metal shell by ~1-2mm
+Profile:  Rounded cross-section, smooth surface
+Tab:      Single small loop protrusion at 12 o'clock position
+          Hollow eyelet through which a cord or chain is threaded
+          Same frosted TPU material, seamlessly integrated
 
-WEARABLE: Worn on a thin black rubber cord as a pendant
-
-SIZE REFERENCE: Roughly the size of a large coat button
-                Significantly smaller than a smartphone
-                In meeting context: sits on desk, barely visible next to laptop
+-- WEARING --
+Cord:     Thin flat black rubber/silicone cord
+          Threaded through the TPU tab eyelet
+          Worn as a minimal pendant, device hangs face-forward on chest
