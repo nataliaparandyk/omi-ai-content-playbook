@@ -1,0 +1,26 @@
+[BACKGROUND]
+Color:      Off-white, warm — slightly creamy #f0ece4 tone
+Texture:    Flat wall surface — matte, no texture detail
+Gradient:   None — even, uniform coverage
+
+[LIGHTING]
+Type:       Hard directional flash or tungsten — single source
+Direction:  Front-facing, slightly right of camera axis
+Intensity:  High — overexposed whites, flat bright coverage on background
+Falloff:    Minimal — light hits background directly, very little shadow rolloff
+
+[SHADOWS]
+Type:       Hard-edged cast shadow on background wall
+Direction:  Shadow falls directly behind and slightly left — strong, graphic
+Opacity:    Deep, defined — high contrast against bright wall
+Style:      Shadow is a feature, not an accident — editorial, intentional
+Offset:     Shadow visibly separated from object — not contact shadow
+
+[FILM QUALITY]
+Grain:      Visible film grain — analog feel, 35mm aesthetic
+Tone:       Slightly warm, slightly faded — not clinical, lived-in
+Saturation: Low-medium — muted, not vibrant
+
+[MOOD]
+Style:      Candid editorial — indie magazine, analog photography
+Reference:  35mm film portrait lighting applied to product
